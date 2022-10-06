@@ -1,4 +1,5 @@
-Olá, eu sou Ginaldo Lima. 
+Olá, eu sou Ginaldo Lima.
+<br>
 Sou um Programador Front-End, e atualmente estou apendendo, e criando projetos com HTML, CSS e também estou iniciando o aprendizado em JavaScript e React.
 
 <br>
