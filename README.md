@@ -25,8 +25,8 @@ Linguagens e Ferramentas
  <br>
  <br>
  
- <a href= "https://www.instagram.com/"> <img align= "left" alt= "icone-insta" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
- <a href= "https://www.linkedin.com/feed/"> <img align= "left" alt= "icone-linkedin" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
+ <a href= "https://www.instagram.com/"> <img align= "left" alt= "icone-insta" width= "30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+ <a href= "https://www.linkedin.com/feed/"> <img align= "left" alt= "icone-linkedin" width= "30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
  
  <br>
  <br>
